@@ -27,6 +27,7 @@ La aplicación verifica las respuestas y proporciona un resultado final. La inte
     * Python 3.x
     * Vosk API
     * Modelo de lenguaje Vosk (descargar desde [https://alphacephei.com/vosk/models](https://alphacephei.com/vosk/models))
+Spanish-vosk-model-small-es-0.42
     * Bibliotecas Python: `re`, `pyttsx3`, `threading`, `queue`, `pyaudio`, `json`, `time`, `vosk`, `flet`.
 2.  **Instalación de Dependencias:**
     ```bash
